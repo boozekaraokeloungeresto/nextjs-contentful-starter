@@ -1,29 +1,4 @@
-# Netlify Next.js + Contentful Minimal Starter
-
-![Screenshot](https://assets.stackbit.com/docs/tutorial-shared-thumb.png)
-
-**⚡ View demo:** [nextjs-contentful-starter.netlify.app](https://nextjs-contentful-starter.netlify.app/)
-
-## Prerequisites
-
-Before you begin, please make sure you have the following:
-
-- [Netlify account](https://www.netlify.com/)
-- [Contentful account](https://www.contentful.com/)
-- GitHub, GitLab or Bitbucket account
-- Node v18+ or later
-- (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management.
-
-## Getting Started
-
-### Clone this repository
-
-Fork and clone your repository, then run `npm install` in its root directory.
-
-### Create Contentful Space
-
-After signing into Contentful, create a new space. 
-
+Booze-karaoke-lounge-resto
 ### Generate Management Token
 
 If you don't already have a management token (or _personal access token_), generate one. To do so, go into your new empty space, then:
